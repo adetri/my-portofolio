@@ -1,7 +1,7 @@
 
-# My-portofolio
 
-| Contribute  | Project Name   |  Type | Year | Stack |
+<h1 align="center">My-portofolio</h1>
+| Contribute  | Project Name   |  Type | Year | Stacks |
 |------------|------------|------------|------------|------------|
 | Backend | [Card Management System BSI](https://drive.google.com/drive/folders/1hux7AFdL8s8gQ7wNS72Z11oNaZo6_KN_?usp=drive_link) |Web,Back Office app| 2024 |Django,Redis, PostgreSQL|
 | Full Stack | [MrCarwash](https://drive.google.com/drive/folders/1X4qvnR8cx_xPzgk-GinwD6WvsDTu0XXR?usp=drive_link) |Web, Back Office app, Android|2023|Django, Flutter, NextJs, PostgreSQL, Redis|
